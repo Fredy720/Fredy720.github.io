@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c943017.chunk.css",
+    "main.js": "/static/js/main.a1e0b7fa.chunk.js",
+    "main.js.map": "/static/js/main.a1e0b7fa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a8f3810.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a8f3810.js.map",
+    "static/js/2.3785b8e3.chunk.js": "/static/js/2.3785b8e3.chunk.js",
+    "static/js/2.3785b8e3.chunk.js.map": "/static/js/2.3785b8e3.chunk.js.map",
+    "static/js/3.dfb684b7.chunk.js": "/static/js/3.dfb684b7.chunk.js",
+    "static/js/3.dfb684b7.chunk.js.map": "/static/js/3.dfb684b7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2c943017.chunk.css.map": "/static/css/main.2c943017.chunk.css.map",
+    "static/js/2.3785b8e3.chunk.js.LICENSE.txt": "/static/js/2.3785b8e3.chunk.js.LICENSE.txt",
+    "static/media/adrian-dzienisik.ed89d203.webp": "/static/media/adrian-dzienisik.ed89d203.webp",
+    "static/media/cesar-villagra.d7d84ae5.webp": "/static/media/cesar-villagra.d7d84ae5.webp",
+    "static/media/cv.0a07a4c3.pdf": "/static/media/cv.0a07a4c3.pdf",
+    "static/media/exequiel-barrirero.f5c15ffb.webp": "/static/media/exequiel-barrirero.f5c15ffb.webp",
+    "static/media/hero1.3981e1b3.webp": "/static/media/hero1.3981e1b3.webp",
+    "static/media/icon-github.8d8f94f2.webp": "/static/media/icon-github.8d8f94f2.webp",
+    "static/media/icon-linkedin.2cad1ba9.webp": "/static/media/icon-linkedin.2cad1ba9.webp",
+    "static/media/icon-linux.71e896dd.png": "/static/media/icon-linux.71e896dd.png",
+    "static/media/icon-netlify.66e9d72e.png": "/static/media/icon-netlify.66e9d72e.png",
+    "static/media/icon-react.284ea22a.jpg": "/static/media/icon-react.284ea22a.jpg",
+    "static/media/icon-react.3adc4d15.svg": "/static/media/icon-react.3adc4d15.svg",
+    "static/media/icon-tailwind.cb8046c1.svg": "/static/media/icon-tailwind.cb8046c1.svg",
+    "static/media/icon-twitter.cb2dad3c.webp": "/static/media/icon-twitter.cb2dad3c.webp",
+    "static/media/java.375f9115.png": "/static/media/java.375f9115.png",
+    "static/media/locationPin.9eb85ce2.webp": "/static/media/locationPin.9eb85ce2.webp",
+    "static/media/mysql.497f0352.png": "/static/media/mysql.497f0352.png",
+    "static/media/index.css": "/static/media/waveTop.ca6478d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a8f3810.js",
+    "static/js/2.3785b8e3.chunk.js",
+    "static/css/main.2c943017.chunk.css",
+    "static/js/main.a1e0b7fa.chunk.js"
+  ]
+}
